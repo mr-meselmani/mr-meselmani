@@ -15,9 +15,20 @@ Here are some of the technologies and tools I work with:
 
 - **Programming Languages:** Golang, Node.js
 - **Front-end Development:** HTML, CSS, JavaScript, React
-- **Back-end Development:** Express.js, RESTful APIs
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Testing and Deployment:** Jest, Docker, Kubernetes, CI/CD pipelines
+- **Back-end Development:**
+  - Express.js
+  - Microservices (for scalable and modular backend systems)
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Testing:**
+  - Jest (for unit testing)
+  - Puppeteer (for end-to-end testing)
+- **Deployment:**
+  - Docker
+  - Kubernetes
+  - CI/CD pipelines (Continuous Integration/Continuous Deployment)
+- **Network Debugging:** Fiddler, Charles
+- **Cloud:** AWS (Amazon Web Services)
+- **Desktop Applications:** Electron.js
 - **Version Control:** Git, GitHub
 
 
