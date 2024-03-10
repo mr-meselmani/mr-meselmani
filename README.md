@@ -53,5 +53,5 @@ Welcome to my coding haven! I'm an experienced TypeScript/Node.js and Golang Eng
 
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me through the following channels:
 
-- **Discord:** [mr.meselmani#2308](#)
+- **Discord:** mr.meselmani#2308
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mr-meselmani/)
