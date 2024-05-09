@@ -2,25 +2,24 @@
 
 # 👋 Hi there, I'm 👑 ASM 👑 BSc. Management Information Systems 💻
 
-Welcome to my coding haven! I'm an experienced TypeScript/Node.js and Golang Engineer, specializing in E-Commerce automation and Full-Stack development.
+Welcome to my coding haven! I'm an experienced TypeScript and Golang Engineer, specializing in E-Commerce automation and Full-Stack development.
 
 ## 🚀 Tech Stack
 
 ### Programming Languages
 ![Golang](https://img.shields.io/badge/Golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Front-end Development
+### Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Back-end Development
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron.js-%2376BBEC?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,9 +36,6 @@ Welcome to my coding haven! I'm an experienced TypeScript/Node.js and Golang Eng
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Desktop Applications
-![Electron.js](https://img.shields.io/badge/Electron.js-%2376BBEC?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
