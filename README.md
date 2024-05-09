@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Hi+there%2C+I'm+ASM+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-# 👋 Hi there, I'm ASM BSc. Management Information Systems
+# 👋 Hi there, I'm 👑 ASM 👑 BSc. Management Information Systems 💻
 
 Welcome to my coding haven! I'm an experienced TypeScript/Node.js and Golang Engineer, specializing in E-Commerce automation and Full-Stack development.
 
