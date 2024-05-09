@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Hi+there%2C+I'm+Ahmad+Meselmani+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Hi+there%2C+I'm+ASM+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-# 👋 Hi there, I'm Ahmad Meselmani BSc. Management Information Systems
+# 👋 Hi there, I'm ASM BSc. Management Information Systems
 
 Welcome to my coding haven! I'm an experienced TypeScript/Node.js and Golang Engineer, specializing in E-Commerce automation and Full-Stack development.
 
@@ -47,11 +47,10 @@ Welcome to my coding haven! I'm an experienced TypeScript/Node.js and Golang Eng
 
 ## 📊 GitHub Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=ahmadmeselmani&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true)](https://github.com/ahmadmeselmani) [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmeselmani&theme=github_dark&layout=compact&hide_border=true)](https://github.com/ahmadmeselmani)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=mr-meselmani&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true)](https://github.com/mr-meselmani) [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-meselmani&theme=github_dark&layout=compact&hide_border=true)](https://github.com/mr-meselmani)
 
 ## 📫 Let's Connect
 
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me through the following channels:
 
 - **Discord:** mr.meselmani#2308
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mr-meselmani/)
