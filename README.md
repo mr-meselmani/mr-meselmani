@@ -23,6 +23,7 @@ Welcome to my coding haven! I'm an experienced TypeScript and Golang Engineer, s
 ![Electron.js](https://img.shields.io/badge/Electron.js-%2376BBEC?style=for-the-badge&logo=electron&logoColor=white)
 ![Gorilla Mux](https://img.shields.io/badge/Gorilla_Mux-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-%23000000?style=for-the-badge&logo=puppeteer&logoColor=white)
 
 
 ### Databases
