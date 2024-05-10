@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm 👑 ASM 👑 BSc in Management Information Systems 💻
 
-Welcome to my coding haven! I'm an experienced TypeScript and Golang Engineer, specializing in E-Commerce automation and Full-Stack development.
+Welcome to my coding haven! I'm an experienced TypeScript and Golang Engineer, specializing in E-Commerce automation and Full-Stack development, with a keen interest in Web3 technologies.
 
 ## 🚀 Tech Stack
 
@@ -23,7 +23,6 @@ Welcome to my coding haven! I'm an experienced TypeScript and Golang Engineer, s
 ![Electron.js](https://img.shields.io/badge/Electron.js-%2376BBEC?style=for-the-badge&logo=electron&logoColor=white)
 ![Gorilla Mux](https://img.shields.io/badge/Gorilla_Mux-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 
 
 ### Databases
