@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Hi+there%2C+I'm+ASM+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-# 👋 Hi there, I'm 👑 ASM 👑 BSc. Management Information Systems 💻
+# 👋 Hi there, I'm 👑 ASM 👑 BSc in Management Information Systems 💻
 
 Welcome to my coding haven! I'm an experienced TypeScript and Golang Engineer, specializing in E-Commerce automation and Full-Stack development.
 
@@ -12,6 +12,7 @@ Welcome to my coding haven! I'm an experienced TypeScript and Golang Engineer, s
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2300758F?style=for-the-badge&logo=sql&logoColor=white)
 
 ### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -20,6 +21,10 @@ Welcome to my coding haven! I'm an experienced TypeScript and Golang Engineer, s
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron.js-%2376BBEC?style=for-the-badge&logo=electron&logoColor=white)
+![Gorilla Mux](https://img.shields.io/badge/Gorilla_Mux-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,12 +46,15 @@ Welcome to my coding haven! I'm an experienced TypeScript and Golang Engineer, s
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 
+### Modeling
+- **UML**: Proficient in Unified Modeling Language (UML), with experience in creating various types of diagrams including class diagrams, sequence diagrams, and use case diagrams. Used UML extensively for software design and documentation purposes.
+
 ## 📊 GitHub Stats
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=mr-meselmani&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true)](https://github.com/mr-meselmani) [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-meselmani&theme=github_dark&layout=compact&hide_border=true)](https://github.com/mr-meselmani)
 
 ## 📫 Let's Connect
 
-I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me through the following channels:
+I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me through the following channel:
 
 - **Discord:** mr.meselmani#2308
